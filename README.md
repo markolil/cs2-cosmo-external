@@ -2,7 +2,7 @@
 
 New Undetected External for Counter Strike 2
 
-  <p align="center"> [Download](https://github.com) 
+  <p align="center"> [Download](https://github.com/marko-lil/cs2-cosmo-external/releases/tag/1.0.3) 
   <br>
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
