@@ -7,7 +7,7 @@ New Undetected External for Counter Strike 2
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 
-# Why this hack is undetect?
+# Why it is undetect?
 because it injects shell code for reading memory into chrome.exe and communicates with it.
    The game will start checking chrome.exe without finding the code, which is located in another
    program, and this program itself will not attract attention to the game, since the handle is stored
