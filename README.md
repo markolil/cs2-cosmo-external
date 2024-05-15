@@ -36,6 +36,6 @@ Player Names ESP
 Trigger Bot
 Fov Circle off/on
 Crosshair
-Recois System Controll
+Recois System Control
  -----------------
 ```
